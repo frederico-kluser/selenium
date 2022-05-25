@@ -1,0 +1,27 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederico-kluser/selenium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frederico-kluser/selenium/issues"
+  },
+  "homepage": "https://github.com/frederico-kluser/selenium#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.1.2"
+  }
+}
