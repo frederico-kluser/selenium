@@ -3,7 +3,7 @@ const chrome = require('selenium-webdriver/chrome');
 
 (async function openChromeTest() {
   try {
-    const options = new chrome.Options();
+    const options = new chrome.Options().headless();
     const driver = await new Builder()
       .setChromeOptions(options)
       .forBrowser('chrome')
