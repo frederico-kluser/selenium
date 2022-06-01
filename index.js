@@ -3098,6 +3098,7 @@ const urls = [
 ];
 
 const getMetaDescription = async () => {
+  debugger;
   let receivedMetaDescription = '';
   const {
     url,
@@ -3129,7 +3130,6 @@ const getMetaDescription = async () => {
     expectedMetaDescription,
     receivedMetaDescription,
   });
-  console.log(result);
   console.log(`${index + 1}/${urls.length}`);
   if (index + 1 < urls.length) {
     // eslint-disable-next-line no-plusplus

@@ -2,92 +2,128 @@
   {
     "url": "https://www.onepeloton.co.uk/shop/tread",
     "expectedMetaDescription": "Get the Peloton Tread, everything you need for a full body workout.",
-    "receivedMetaDescription": "Get the Peloton Tread, everything you need for a full body workout."
+    "receivedMetaDescription": "Get the Peloton Tread, everything you need for a full body workout.",
+    "metada": "shopTread",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/tread/tread-select-package-uk",
     "expectedMetaDescription": "Get the Peloton Tread, everything you need for a full body workout.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopTreadSelectPackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "home",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/company",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgCompany",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/company/contact",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": ""
+    "receivedMetaDescription": "",
+    "metada": "pgContactUs",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/company/team",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgTeam",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessories",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/bi-material-cycling-shoe-cleats",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesBiMaterialCSC",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/podium-sport-bottle",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesPodiumSportBottle",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/set/bikes-select-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetBikesSelectAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/set/bikes-starter-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetBikesStarterAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/set/bikes-ultimate-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetBikesUltimateAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/set/treads-select-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetTreadsSelectAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/set/treads-starter-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetTreadsStarterAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/set/treads-ultimate-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetTreadsUltimateAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/set/yoga-set",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetYogaSet",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/accessories/yoga-strap-v2",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesYogaStrapV2",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.co.uk/showrooms",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgShowroomList",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/showrooms/au_bondijunction",
@@ -822,87 +858,121 @@
   {
     "url": "https://www.onepeloton.co.uk/bike",
     "expectedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22' HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
-    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive."
+    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
+    "metada": "pgBike",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/bike/reviews",
     "expectedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22' HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
-    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive."
+    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
+    "metada": "reviews.bike",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/guide",
     "expectedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
-    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger."
+    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
+    "metada": "shopRainforestCafe",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.co.uk/shop/guide",
     "expectedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
-    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger."
+    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
+    "metada": "shopGuide",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/bike/reviews",
     "expectedMetaDescription": "Das von Men's Health als bestes Cardio-Gerät ausgezeichnete Peloton Bike ist ein stationäres High-Tech-Fitnessbike mit 22-Zoll-HD-Bildschirm, Carbonstahlrahmen, einem gleichmäßigen Magnetwiderstand und einem nahezu geräuschlosen Riemenantrieb.",
-    "receivedMetaDescription": "Das von Men's Health als bestes Cardio-Gerät ausgezeichnete Peloton Bike ist ein stationäres High-Tech-Fitnessbike mit 22-Zoll-HD-Bildschirm, Carbonstahlrahmen, einem gleichmäßigen Magnetwiderstand und einem nahezu geräuschlosen Riemenantrieb."
+    "receivedMetaDescription": "Das von Men's Health als bestes Cardio-Gerät ausgezeichnete Peloton Bike ist ein stationäres High-Tech-Fitnessbike mit 22-Zoll-HD-Bildschirm, Carbonstahlrahmen, einem gleichmäßigen Magnetwiderstand und einem nahezu geräuschlosen Riemenantrieb.",
+    "metada": "reviews.bike",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.de/bike/reviews/submit",
     "expectedMetaDescription": "Das von Men's Health als bestes Cardio-Gerät ausgezeichnete Peloton Bike ist ein stationäres High-Tech-Fitnessbike mit 22-Zoll-HD-Bildschirm, Carbonstahlrahmen, einem gleichmäßigen Magnetwiderstand und einem nahezu geräuschlosen Riemenantrieb.",
-    "receivedMetaDescription": "Das von Men's Health als bestes Cardio-Gerät ausgezeichnete Peloton Bike ist ein stationäres High-Tech-Fitnessbike mit 22-Zoll-HD-Bildschirm, Carbonstahlrahmen, einem gleichmäßigen Magnetwiderstand und einem nahezu geräuschlosen Riemenantrieb."
+    "receivedMetaDescription": "Das von Men's Health als bestes Cardio-Gerät ausgezeichnete Peloton Bike ist ein stationäres High-Tech-Fitnessbike mit 22-Zoll-HD-Bildschirm, Carbonstahlrahmen, einem gleichmäßigen Magnetwiderstand und einem nahezu geräuschlosen Riemenantrieb.",
+    "metada": "reviews.bike",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.de/shop/bike-plus",
     "expectedMetaDescription": "Hol dir das Peloton Bike: das einzige Fitness Bike mit Live und On-Demand Indoor Cycling Kursen.",
-    "receivedMetaDescription": "Hol dir das Peloton Bike: das einzige Fitness Bike mit Live  und On-Demand Indoor Cycling Kursen. "
+    "receivedMetaDescription": "Hol dir das Peloton Bike: das einzige Fitness Bike mit Live  und On-Demand Indoor Cycling Kursen. ",
+    "metada": "shopBikePlus",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/shop/bike",
     "expectedMetaDescription": "Hol dir das Peloton Bike: das einzige Fitness Bike mit Live und On-Demand Indoor Cycling Kursen.",
-    "receivedMetaDescription": "Hol dir das Peloton Bike: das einzige Fitness Bike mit Live  und On-Demand Indoor Cycling Kursen. "
+    "receivedMetaDescription": "Hol dir das Peloton Bike: das einzige Fitness Bike mit Live  und On-Demand Indoor Cycling Kursen. ",
+    "metada": "shopBike",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/shop/accessories",
     "expectedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
-    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand."
+    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
+    "metada": "pgAccessories",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/company/contact",
     "expectedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
-    "receivedMetaDescription": ""
+    "receivedMetaDescription": "",
+    "metada": "pgContactUs",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/shop/accessories/bi-material-cycling-shoe-cleats",
     "expectedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
-    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand."
+    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
+    "metada": "pgAccessoriesBiMaterialCSC",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/shop/accessories/set/bikes-select-acc",
     "expectedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
-    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand."
+    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
+    "metada": "pgAccessoriesSetBikesSelectAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/shop/accessories/set/treads-select-acc",
     "expectedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
-    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand."
+    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
+    "metada": "pgAccessoriesSetTreadsSelectAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/shop/accessories/set/yoga-set",
     "expectedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
-    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand."
+    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
+    "metada": "pgAccessoriesSetYogaSetSe",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.de/showrooms",
     "expectedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
-    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand."
+    "receivedMetaDescription": "Sofortiger Zugriff auf hochintensive Workouts. Entdecke Peloton: Fitnesskurse streamen, Live & On-Demand.",
+    "metada": "pgShowroomList",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.de/",
     "expectedMetaDescription": "Dein ultimatives live Cardio-Training Zuhause.",
-    "receivedMetaDescription": "Dein ultimatives live Cardio-Training Zuhause."
+    "receivedMetaDescription": "Dein ultimatives live Cardio-Training Zuhause.",
+    "metada": "home",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.de/company",
     "expectedMetaDescription": "Dein ultimatives live Cardio-Training Zuhause.",
-    "receivedMetaDescription": "Dein ultimatives live Cardio-Training Zuhause."
+    "receivedMetaDescription": "Dein ultimatives live Cardio-Training Zuhause.",
+    "metada": "pgCompany",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.de/showrooms/au_martinplace",
@@ -1522,127 +1592,177 @@
   {
     "url": "https://www.onepeloton.ca/",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "home",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/company",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgContactUs",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/company/team",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgTeam",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessories",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/altos-cycling-shoes",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesAltosCyclingShoes",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/bi-material-cycling-shoe-cleats",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesBiMaterialCSC",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/bike-mat-v2",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesBikeMatV2",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/cycling-shoes",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesCyclingShoes",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/dumbbells",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesDumbbell",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/heart-rate-band",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesHeartRateBand",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/jblx-peloton-earbuds-2",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesJblxPelotonEarbuds2",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/pedal_set",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesPedalSet",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/peloton-glass-water-bottle",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesPelotonGWB",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/peloton-weights",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesPelotonWeights",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/pl-hr-c-01",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesPlHrC01",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/podium-sport-bottle",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesPodiumSportBottle",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/resistance-bands",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesResistanceBands",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/reversible-workout-mat",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesReversibleWorkoutMat",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/set/bikes-select-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetBikesSelectAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/set/bikes-starter-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetBikesStarterAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/set/bikes-ultimate-acc",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetBikesUltimateAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/urbanears-sumpan-earbuds",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesUrbanearsSumpanEarbuds",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/yoga-blocks-v2",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesYogaBlocksV2",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/yoga-strap-v2",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesYogaStrapV2",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/showrooms",
     "expectedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgShowroomList",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/showrooms/au_davidjonesbourkestreet",
@@ -2222,22 +2342,30 @@
   {
     "url": "https://www.onepeloton.ca/bike",
     "expectedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22' HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
-    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive."
+    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
+    "metada": "pgBike",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/bike-plus/reviews",
     "expectedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22' HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
-    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive."
+    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
+    "metada": "reviews.bike-plus",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/bike/reviews",
     "expectedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22' HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
-    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive."
+    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
+    "metada": "reviews.bike",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/bike/reviews/submit",
     "expectedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22' HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
-    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive."
+    "receivedMetaDescription": "Awarded Best Cardio Machine by Men's Health, Peloton bike is a high-tech stationary bike with a 22\" HD touchscreen, carbon steel frame, smooth magnetic resistance, and near-silent belt drive.",
+    "metada": "reviews.bike",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/tread/reviews/submit",
@@ -2247,27 +2375,37 @@
   {
     "url": "https://www.onepeloton.ca/shop/tread",
     "expectedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout.",
-    "receivedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout."
+    "receivedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout.",
+    "metada": "shopTread",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/tread/tread-basics-package-ca",
     "expectedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout.",
-    "receivedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout."
+    "receivedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout.",
+    "metada": "shopTreadBasicPackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/tread/tread-select-package-ca",
     "expectedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopTreadPackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/tread/tread-starter-package-ca",
     "expectedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopTreadStarterPackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/tread/tread-ultimate-package-ca",
     "expectedMetaDescription": "Get the Peloton Tread, everything you need for a total body workout.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopTreadUltimatePackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/financing",
@@ -2317,7 +2455,9 @@
   {
     "url": "https://www.onepeloton.ca/instructors/PeloML",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": ""
+    "receivedMetaDescription": "",
+    "metada": "",
+    "exist": null
   },
   {
     "url": "https://www.onepeloton.ca/instructors/aditishah",
@@ -2362,22 +2502,30 @@
   {
     "url": "https://www.onepeloton.ca/shop/accessories/set/treads-select-acc",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetTreadsSelectAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/set/treads-starter-acc",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetTreadsStarterAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/set/treads-ultimate-acc",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetTreadsUltimateAcc",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/accessories/set/yoga-set-se",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand."
+    "receivedMetaDescription": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+    "metada": "pgAccessoriesSetYogaSetSe",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike-plus/bike-plus-basics-package-ca",
@@ -2392,12 +2540,16 @@
   {
     "url": "https://www.onepeloton.ca/shop/bike-plus/bike-plus-starter-package-ca",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopBikePlusStarterPackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike-plus/bike-plus-ultimate-package-ca",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": ""
+    "receivedMetaDescription": "",
+    "metada": "shopBikePlusUltimatePackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike-plus/compare?chat=true",
@@ -2407,32 +2559,44 @@
   {
     "url": "https://www.onepeloton.ca/shop/bike/bike-select-package-ca/heart-rate-band-size-guide",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "pgAccessories",
+    "exist": null
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike/bike-ultimate-package-ca/dumbbells-weight-guide",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand."
+    "receivedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand.",
+    "metada": "",
+    "exist": null
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike/bike-ultimate-package-ca/heart-rate-band-size-guide",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand."
+    "receivedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand.",
+    "metada": "",
+    "exist": null
   },
   {
     "url": "https://www.onepeloton.ca/shop/guide/warranty",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger."
+    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
+    "metada": "pgShopGuide",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/tread/tread-select-package-ca/dumbbells-weight-guide",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "",
+    "exist": null
   },
   {
     "url": "https://www.onepeloton.ca/shop/tread/tread-select-package-ca/heart-rate-band-size-guide",
     "expectedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
-    "receivedMetaDescription": ""
+    "receivedMetaDescription": "",
+    "metada": "",
+    "exist": null
   },
   {
     "url": "https://www.onepeloton.ca/showrooms/au_bondijunction",
@@ -2542,36 +2706,50 @@
   {
     "url": "https://www.onepeloton.ca/guide",
     "expectedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
-    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger."
+    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
+    "metada": "pgRainforestCafe",
+    "exist": true
   },
   {
     "url": "https://www.onepeloton.ca/shop/guide",
     "expectedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
-    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger."
+    "receivedMetaDescription": "Introducing a new way to do strength training, turn your TV into a guided workout experience and see yourself grow stronger.",
+    "metada": "pgShopGuide",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike",
     "expectedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand.",
-    "receivedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand."
+    "receivedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand.",
+    "metada": "shopBike",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike/bike-basics-package-ca",
     "expectedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopBikeBasicsPackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike/bike-select-package-ca",
     "expectedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopBikeSelectPackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike/bike-starter-package-ca",
     "expectedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopBikeStarterPackage",
+    "exist": false
   },
   {
     "url": "https://www.onepeloton.ca/shop/bike/bike-ultimate-package-ca",
     "expectedMetaDescription": "Get the original Peloton Bike, bringing game-changing cardio classes to your home live and on demand.",
-    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand."
+    "receivedMetaDescription": "Access high-energy indoor cycling workouts instantly. Discover the Peloton bike: the only exercise bike streaming indoor cycling classes to your home live and on-demand.",
+    "metada": "shopBikeUltimatePackage",
+    "exist": false
   }
 ]
