@@ -1,3 +1,4 @@
+/* eslint-disable no-async-promise-executor */
 const { By, until } = require('selenium-webdriver');
 
 let driver;
@@ -18,7 +19,6 @@ const selectElementCSS = (CSS) => driver.findElement(By.css(CSS));
 
 const selectElement = (tag, property, value) => driver.findElement(By.css(`${tag}[${property}="${value}"]`));
 
-// eslint-disable-next-line no-async-promise-executor
 const waitUntilElementGone = (tag, property, value) => new Promise(async (resolve) => {
   let checkDisabled;
   // eslint-disable-next-line prefer-const
@@ -30,7 +30,6 @@ const waitUntilElementGone = (tag, property, value) => new Promise(async (resolv
   }, 50);
 });
 
-// eslint-disable-next-line no-async-promise-executor
 const waitUntilElementGoneCSS = (CSS) => new Promise(async (resolve) => {
   let checkDisabled;
   // eslint-disable-next-line prefer-const
